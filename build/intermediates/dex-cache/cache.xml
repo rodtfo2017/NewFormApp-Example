@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/rodneynelson/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/rodneynelson/Downloads/NewFormApp/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_b1892573b48f57be4def286f3f2215e2bed65ced.jar" />
+    </item>
+
+</items>

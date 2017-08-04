@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/rodneynelson/Downloads/NewFormApp/app/build/intermediates/res/merged/debug/layout/additional.xml",
+        "source": "/Users/rodneynelson/Downloads/NewFormApp/app/src/main/res/layout/additional.xml"
+    },
+    {
+        "merged": "/Users/rodneynelson/Downloads/NewFormApp/app/build/intermediates/res/merged/debug/layout/activity_display_message.xml",
+        "source": "/Users/rodneynelson/Downloads/NewFormApp/app/src/main/res/layout/activity_display_message.xml"
+    },
+    {
+        "merged": "/Users/rodneynelson/Downloads/NewFormApp/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/rodneynelson/Downloads/NewFormApp/app/src/main/res/layout/activity_main.xml"
+    }
+]

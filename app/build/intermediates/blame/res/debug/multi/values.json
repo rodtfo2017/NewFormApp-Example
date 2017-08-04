@@ -1,0 +1,239 @@
+[
+    {
+        "outputFile": "/Users/rodneynelson/Downloads/NewFormApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "/Users/rodneynelson/Downloads/NewFormApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 47,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 39,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "/Users/rodneynelson/Downloads/NewFormApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endColumn": 39,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 53,
+                    "endOffset": 192
+                },
+                "from": {
+                    "file": "/Users/rodneynelson/Downloads/NewFormApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 53,
+                        "endOffset": 324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 197,
+                    "endColumn": 44,
+                    "endOffset": 237
+                },
+                "from": {
+                    "file": "/Users/rodneynelson/Downloads/NewFormApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 329,
+                        "endColumn": 44,
+                        "endOffset": 369
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 242,
+                    "endColumn": 46,
+                    "endOffset": 284
+                },
+                "from": {
+                    "file": "/Users/rodneynelson/Downloads/NewFormApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 374,
+                        "endColumn": 46,
+                        "endOffset": 416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 289,
+                    "endColumn": 52,
+                    "endOffset": 337
+                },
+                "from": {
+                    "file": "/Users/rodneynelson/Downloads/NewFormApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 421,
+                        "endColumn": 52,
+                        "endOffset": 469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 342,
+                    "endColumn": 50,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "/Users/rodneynelson/Downloads/NewFormApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 104,
+                        "endColumn": 50,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 38,
+                    "endOffset": 427
+                },
+                "from": {
+                    "file": "/Users/rodneynelson/Downloads/NewFormApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 155,
+                        "endColumn": 38,
+                        "endOffset": 189
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 432,
+                    "endColumn": 40,
+                    "endOffset": 468
+                },
+                "from": {
+                    "file": "/Users/rodneynelson/Downloads/NewFormApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 194,
+                        "endColumn": 40,
+                        "endOffset": 230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 473,
+                    "endColumn": 81,
+                    "endOffset": 550
+                },
+                "from": {
+                    "file": "/Users/rodneynelson/Downloads/NewFormApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 474,
+                        "endColumn": 81,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 555,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 841
+                },
+                "from": {
+                    "file": "/Users/rodneynelson/Downloads/NewFormApp/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 846,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1001
+                },
+                "from": {
+                    "file": "/Users/rodneynelson/Downloads/NewFormApp/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]
