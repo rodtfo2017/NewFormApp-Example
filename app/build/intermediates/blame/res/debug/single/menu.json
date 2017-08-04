@@ -4,7 +4,15 @@
         "source": "/Users/rodneynelson/Downloads/NewFormApp/app/src/main/res/menu/activity_display_message.xml"
     },
     {
+        "merged": "/Users/rodneynelson/Downloads/NewFormApp-Example/app/build/intermediates/res/merged/debug/menu/activity_main.xml",
+        "source": "/Users/rodneynelson/Downloads/NewFormApp-Example/app/src/main/res/menu/activity_main.xml"
+    },
+    {
         "merged": "/Users/rodneynelson/Downloads/NewFormApp/app/build/intermediates/res/merged/debug/menu/activity_main.xml",
         "source": "/Users/rodneynelson/Downloads/NewFormApp/app/src/main/res/menu/activity_main.xml"
+    },
+    {
+        "merged": "/Users/rodneynelson/Downloads/NewFormApp-Example/app/build/intermediates/res/merged/debug/menu/activity_display_message.xml",
+        "source": "/Users/rodneynelson/Downloads/NewFormApp-Example/app/src/main/res/menu/activity_display_message.xml"
     }
 ]
